@@ -1,4 +1,4 @@
-git clone 
+git clone https://github.com/sonykonda/emotion_python.git
 
 cd emotion_python
 
